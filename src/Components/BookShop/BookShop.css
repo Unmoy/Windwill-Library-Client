@@ -1,0 +1,18 @@
+.orderBtn {
+  background-color: lightgreen;
+  margin-left: "380px";
+}
+
+.productContainer {
+  width: 350px;
+  height: 320px;
+  text-align: center;
+  box-shadow: 10px 10px 10px lightgray;
+  border-radius: 15px;
+}
+
+.productContainer img {
+  width: 8rem;
+  margin: 0px auto;
+  margin-top: 10px;
+}

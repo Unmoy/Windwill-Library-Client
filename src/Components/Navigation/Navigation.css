@@ -1,0 +1,17 @@
+/* Modify the backgorund color */
+.navbar-custom {
+  background-color: lightgreen;
+}
+/* Modify brand and text color */
+.navbar-brand {
+  color: #3f26bf;
+  font-weight: 1000;
+}
+.nav-link {
+  color: black;
+}
+.signIn-Btn {
+  background-color: lightgreen;
+  border: 1px solid white;
+  margin-top: 6px;
+}
